@@ -1,0 +1,1 @@
+<h1>Multithreading fruits app</h1>
